@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מתכננים מטבח חדש? WOOD HOUSE מתמחה בנגרות איכותית, מטבחים מעץ מלא וריהוט מותאם אישית. פתרונות עיצוב ייחודיים לכל בית. בואו ליצור משהו מיוחד!
+
+### שירותים
+https://example.com/services
+גלו את מגוון שירותי הנגרות שלנו: תכנון וייצור מטבחים בהתאמה אישית, ארונות מעץ מלא, ריהוט מעוצב לבית ופתרונות אחסון חכמים. איכות ללא פשרות!
+
+### פרויקטים
+https://example.com/projects
+התרשמו מפרויקטי הנגרות והמטבחים שביצענו! צפו בעבודות עץ מרהיבות, מטבחים בעיצוב אישי וריהוט ייחודי שהפכו בתים לחלום. קבלו השראה לפרויקט הבא שלכם!
+
+### צור קשר
+https://example.com/contact
+מוכנים להגשים את חלום המטבח או הריהוט המושלם? צרו קשר עם WOOD HOUSE עוד היום לייעוץ חינם ותכנון אישי. נשמח לענות על כל שאלה ולהפוך את החזון שלכם למציאות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
